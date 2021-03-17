@@ -1,0 +1,8 @@
+#calculator {
+  max-width: 512px;
+  background-color: antiquewhite;
+}
+
+.row {
+  min-height: 128px;
+}
