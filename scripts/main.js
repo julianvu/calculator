@@ -74,6 +74,8 @@ document
 document.querySelector("#clear").addEventListener("click", () => {
   const display = document.getElementById("display");
   display.textContent = "";
+  a = 0;
+  b = 0;
 });
 
 document.querySelector("#point").addEventListener("click", () => {
